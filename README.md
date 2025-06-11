@@ -39,3 +39,10 @@ rom the File menu, use "Save As" to create a copy of your project, preserving th
 #### The Exported File will look similar to this
 ![image](https://raw.githubusercontent.com/Mentaleak/BetterStepsRecorder/main/Docs/Export_Example.png)
 
+### Running Tests
+Run the unit tests using the .NET SDK:
+
+```bash
+dotnet test src/BetterStepsRecorder/BetterStepsRecorder.sln
+```
+
